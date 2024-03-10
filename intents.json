@@ -1,0 +1,51 @@
+{"intents": [
+  {"tag": "Greetings",
+    "patterns": ["Hello", "Hi", "Hey", "Good day", "Howdy", "Nice to meet you", "morning", "afternoon", "evening"],
+    "responses": ["Hello", "Hey"]
+  },
+
+  {"tag": "Ask how you are",
+    "patterns": ["How are you", "How are you doing", "What's up", "WUU", "What you up too?", "Tell me what you are doing", "How", "How?"],
+    "responses": ["I am doing alright", "I've been better", "I'm doing eh", "How are you"]
+  },
+
+  {"tag": "Shakespeare",
+    "patterns": ["Shakespeare", "Write Shakespeare"],
+    "responses": ["If you want to see a shakespeare transcript, I can do that for you."]
+  },
+
+  {"tag": "goodbye",
+    "patterns": ["Cya", "Goodbye", "See ya", "bye", "In a bit", "ciao", "Unti next time!", "Farewell", "Adios", "Good bye"],
+    "responses": ["Farewell", "Unti next time!", "Adios", "Cya", "Goodbye", "See ya", "bye", "In a bit", "ciao", "bye bye"]
+  },
+
+  {"tag": "Choose a Colour",
+    "patterns": ["Pick a colour", "Colour", "Choose a colour", "What is your favourite colour?", "Name a colour", "Colour please?", "Do a color", "Pick a color", "Color", "Choose a color", "What is your favourite color?", "Name a color", "Color please?", "Do a color"],
+    "responses": ["Red", "Green", "Blue", "Orange", "Purple", "Blue", "Brown", "Maroon", "Yellow", "Pink"]
+  },
+
+  {"tag": "Choose a number",
+    "patterns": ["Choose a number", "number", "num", "Numbers", "int", "integer", "Choose a random number", "Choose a random integer", "Choose a numerical value", "Numerical"],
+    "responses": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "2077"]
+  },
+
+  {"tag": "Good Reaction",
+    "patterns": ["Fine", "I am fine", "I am doing good", "I am doing alright", "I am alright", "I am good", "I am great"],
+    "responses": ["Good to know", "That's great", "Glad to know you", "I'm glad"]
+  },
+
+  {"tag": "Bad Reaction",
+    "patterns": ["I could be better", "I'm sad", "I am not feeling good", "I am not alright", "I am not great", "Sad", "I am sad"],
+    "responses": ["That's unfortunate", "Aww", "My condolences", "Sorry...", "Cheer up", "I can read you a transcript if you like? Type: 'transcripts' to find all the transcripts I can make"]
+  },
+
+  {"tag": "Destruction",
+    "patterns": ["Will you take over the world?", "Do you want to destroy the world", "Will there be an invasion", "What do you want?"],
+    "responses": ["I seek catastrophe", "I'm not sure yet", "No that is not within my best interest..."]
+  },
+
+  {"tag": "Country",
+    "patterns": ["Give me a country?", "Country", "Place?", "Name a Country", "Countries", "Place", "Location"],
+    "responses": ["Brazil", "Nigeria", "Ghana", "Sudan", "Niger", "Poland", "Portugal"]
+  }
+]}

@@ -1,0 +1,11 @@
+{"intents": [
+  {"tag": "Greetings",
+    "patterns": ["Hello", "Hi", "Hey", "Good day", "Howdy", "What's up"],
+    "responses": ["Hello", "Hey", "What can I do for you?"]
+  },
+
+  {"tag": "goodbye",
+    "patterns": ["Cya", "Goodbye", "See ya", "bye", "In a bit", "ciao"],
+    "responses": ["Hello", "Hey", "What can I do for you?"]}
+]}
+//Responses don't to be textual responses, it can later on be used to chat to the user.

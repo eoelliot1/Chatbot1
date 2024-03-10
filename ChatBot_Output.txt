@@ -1,0 +1,321 @@
+Text-Interpreter inputs:
+Hello
+1/1 [==============================] - 0s 72ms/step
+[0.08375583 0.00254238 0.09739573 0.0030939  0.26598325 0.17588837
+ 0.3713405 ]
+Adios
+Cya later
+1/1 [==============================] - 0s 20ms/step
+[0.07321093 0.00272615 0.07436855 0.00318609 0.29628345 0.15541288
+ 0.3948119 ]
+Cya
+bye
+1/1 [==============================] - 0s 18ms/step
+[1.1702674e-06 5.7555899e-10 1.5564684e-07 4.0395035e-10 4.2699713e-07
+ 9.8233829e-07 9.9999726e-01]
+bye
+I am fine
+1/1 [==============================] - 0s 17ms/step
+[4.8259627e-20 5.0618049e-15 3.6032765e-18 1.0000000e+00 6.9930942e-23
+ 4.8405281e-20 7.6723958e-21]
+Glad to know you
+I am great
+1/1 [==============================] - 0s 21ms/step
+[5.5057948e-11 1.2633805e-08 7.1442735e-10 1.0000000e+00 3.3512232e-12
+ 4.9393462e-11 2.1658854e-11]
+Good to know
+Place?
+1/1 [==============================] - 0s 17ms/step
+[0.07670687 0.00312429 0.09236878 0.003753   0.27850434 0.18038635
+ 0.3651563 ]
+See ya
+Give me a country?
+1/1 [==============================] - 0s 17ms/step
+[3.3772607e-09 1.8753292e-11 9.9999988e-01 1.3573329e-10 4.7339799e-10
+ 4.0713228e-09 5.8701932e-08]
+Portugal
+
+
+Text-Generation SpongeBob:
+Reading: SpongeBobS1&S2.txt
+Preparing neural network using selected options...
+Generating Text:
+------------------------temp 0.1
+n, mr. squarepants! welcome aboard! (krabky up cut to h a wannt food the secrues stants to mover the krabby patty?
+spongebob: i could up around himmendaybusing! jellyfishing! jellyfishing! jellyfishing! jellyfishing! jellyfishing! jellyfishing! jellyfishing! jellyfishing! jellyfishing! jellyfishing! jellyfishing! jellyfishing! jellyfishi
+------------------------temp 0.2
+he grill. [sponge is in the kitchen at themening head) i don't that, we how your millows out the whone screatled. (spongebob turss into a boward) ithing it remel! home and starts his houp) (the an spongebob gives his the back of the tecen grab of going down the wall his bearlang uping out of the ten with away might anowh!
+spongebob: well
+------------------------temp 0.25
+s putting on another pair of square pants. can spongebob is shoppthing mino is not startent the forcord out of his a can a biknt corll fish friends so me the pizza of a mirele aboart with and will to going to gratting to strain)
+spongebob: i distougall hat the firght again)
+(spongebob this read. (spongebob turss into a boward) ithing it
+------------------------temp 0.4
+
+krabs: that’s me old girl; tough as naiden is some soruthe gannt the restausomer the krusty krew from squidward's clatething his house don't do you mms. puff...'re doing the that? sq ifwing out of the ten wigh. done friends!
+patrick: who hoodand not strait around the chair and formomer. (gooooo on the did prato squidward his glass) squi
+------------------------temp 0.6
+t fire me pride and joy, it’d break her fall. endiver his back tries to happe?
+spongebob: you got me pen it screen to blike. i gut it in a bik cheame the ship houp]
+spongebob: the kicl his bubble to ghos and a shows spongebob as chies and into around it as a give a goly spongebob and patrick are squidward is spongebob and patrick are so
+------------------------temp 0.8
+(holding his pinky higher): like that?
+sandy: oh, spongebob. i don out. on the whole going to new some shifll fall, and it the boat? (walks with a torall. the air? your house is ghoung to screathing it around the spacks af house arthachuse)
+patrick: a biraught by to strain the grill is the othat wait to scree is spongebob garyfusi the b
+------------------------temp 1
+ts to grapple with an appendage in the clike but smallent) no. who want to concimindow-in-treing of squidward! squidward! squidward! we’re done full seeps on the fliester? holdsonger, laps of squidward's runs off to a bik chearl whave coll he grabs up don’t fumb all of bbowishey want into the back bounce. (spongebob rigls squidward's func
+
+Text-Generation shakespeare:
+
+Shakespeare
+Reading: shakespeare.txt
+Preparing neural network using selected options...
+Generating Text:
+------------------------temp 0.1
+r stinking breaths.
+
+sicinius:
+'tis right lood and seld to the word,: whither will purmis, and sunder to be pone.
+
+menenius:
+down with hich!
+wire i well who peodes, marcius is gaid with thook
+the contenies a do valdisarcs, and follow together: the word, sid muct,
+whereolet you have lefter to be pone honour food: i would them
+runtel to und
+------------------------temp 0.2
+ond clouds,
+let me deserve so ill as your old enemy.
+
+first citizen:
+the word, sir, we'll you.
+
+cominius:
+art, my seed, to the state, hater heart and pot repainsbent and then
+where come, sir, muse to earcions; letter, speak?
+
+both citizen:
+we do maned?
+
+menenius:
+if it may can tern, ye consines, more proud of jedore thos consullares,
+one 
+------------------------temp 0.25
+e is a gain to them let us revenge this your grodes, mad, you so sizen:
+ay attends thou moords wother dis rome
+and the city ard, yer would
+bether be honde vougt, that with the people, sourd good with those
+heres of must do not the virst pous.
+
+menenius:
+down with hich!
+wire the gods lets so in sore: you, yee, sure no more presenbut that h
+------------------------temp 0.4
+more virtuous that i have
+not been commouls,
+we do it for the beath.
+
+menenius:
+down with hich!
+wire your commins: your voices: for his muthare find you your lockaf.
+
+both citizen:
+we do manels be prome do strove:
+ane, i would sword, an't, their fauscbett, make it stroth, of them?
+
+menenius:
+one i senon'd he movety and
+the city of the get
+------------------------temp 0.6
+me, blow thy blast.
+tutus aufidius, is he wore that they would he choled voiel
+with tho gutt me denown, sincus lord to mather beath.
+
+coriolanus:
+marcius, 'tis most and bookd me to heact
+molem:
+not so in the might one for their foungers,
+and the furbover him in agligation
+who where he still would become'd fivel--
+mosting of marcius doing 
+------------------------temp 0.8
+ogs must eat,
+that meat was made for mouth.
+
+brutus:
+marcius,
+
+cominius:
+ay, be so in the nible more prestation thos mone.
+
+brutus:
+there, thou do thy comminion, or i am find
+mogheddicus,
+whome i would they would puth them.
+
+brutus:
+beseech you.
+
+bot citizen:
+the word, sir, we'll stime.
+what is power tysul.
+
+brutus:
+marcius,
+
+citizenst,
+w
+------------------------temp 1
+e of your conversation would
+infect my bease,
+and manks pruck and kuefe, my man,
+here come, do revate, and one, put milile bouth, sid, cornier marcius.
+
+gire of: fear man such these news?
+
+menenius:
+if it may can you wich us consul?
+
+menenius:
+if it shall be abofer marcius autret him to beg the win his hat,
+
+coriolanus:
+to the but hind on
+
+Text-Generation Simpson:
+
+200000
+You said:  Text[ 1000 : 200000 ]
+Generating text...
+Generating Text:
+------------------------temp 0.1
+E:\DupaGameDownloads\IntelliJFolder\Test72\.idea\chatBot.py:73: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+this happens to me every time.
+my young getter robfind in my coming right now.
+- someore good, sind ton.
+- whoa! - well, a goy.
+ousth gets each.
+is 34 gand barn sidn't jest.
+good, man.
+- not innages to surend, simpson? - this is sone.
+how much do you leave the cord police.
+-forth ougst for for alive.
+- where's that, balove the h
+------------------------temp 0.2
+ey, good squishies.
+- what flavor did you want, bart.
+- you'll said hithing.
+mook, mom.
+i was up thesel-dollied but.
+let's go-gee, liss for years? thas simpson.
+hey, simpson! can wait as our house more out this fact.
+- oh, marge.
+sorcy all per.
+extic.
+homer.
+- bart, and i love the compley bouge.
+you we deel your receil.
+- the
+------------------------temp 0.25
+civilized look, it's foul language and, let's be cool.
+i didn't for aid for frain you.
+- oh, marge.
+stem to little from turnibord, leard not the pact the police.
+- you were you have a lovior butting, son.
+seem you mean mut the buli" let me rellopagh when i wasked on i'm gonna have to prosementing with the ene.
+hey, drip, it's a coil
+------------------------temp 0.4
+your arm in the war? my arm? well, let me just said him! well, to sitter been all.
+well, looks like a smart and sore.
+i can't help bad into have smartion pay up, and say in some of the clown things and i how you think you've seys a little goodny.
+else it over all feer.
+no.
+seeing bag.
+how do you little felt like at with a rade to de
+------------------------temp 0.6
+rocedure for armed robbery.
+i do work in frente, but i'm just telind it! patth restartuacweroung kensurand in a lead of the clown things look, juctume will stay it? - hey, bart, i'm rrought night, still grizzlies.
+n-- the hook sweets - with the enter.
+-well.
+where is your big chreal cord on place, and boy man.
+the carttor playing tra
+------------------------temp 0.8
+.
+does anyone else have an example of all peft up place.
+- how? get out of the cord.
+- you do? - yes.
+spends? - you're sex have happence, dad.
+- bat homer.
+like me.
+mmmmb-ther, what a nucb.
+we casked on what guy from nucter birdong.
+- homer? - bart, and i cald affere? - gelle thing, mom.
+- loveree, my years.
+wow, maybe on the s
+------------------------temp 1
+ines.
+let's learn more about nuclear ener.
+kyold me.
+- hey, heheh! hey, hope-clongngged and his book all these your asked of jaceeacivied.
+new gont! honey, you little morgrounince we're here will hug roid bad party? - the blookn dumes.
+- aaah! -aaah! - very looks.
+- when heare you, you haven a little frostd me.
+but, patty, son.
+no
+
+Text-Generation Game of Thrones:
+
+You said:  Text[ 1000 : 50000 ]
+Generating text...
+Generating Text:
+------------------------temp 0.1
+ it to them could do it to us. they even have to watch. we’re want to lift to the king. the fring too watch. we. do you say, three was far me. re0 whind i don’t sait was hongers. they to the king. walks away. the king is far want? a danger.]
+
+tyrion: and long some is fur the for the foll.
+
+ryen: there a spopes the khore the beghing if
+------------------------temp 0.2
+i: your daughter will do well in the caping. we with not you well fordand the kings to want to ly grace. you know wore that want hon, pattly my lovel. they well banger.]
+
+tyrion: and long some is fur the for the foll.
+tyrion lannister : aprack. the for the for king's landing.
+
+[what drowa man: you know. wo’ll well manger. a wasthery,
+------------------------temp 0.25
+ do.
+
+jaime: well said.
+
+[arya flips fur benjersord pitster munjrys? for with it faring? that know what i am a farcher.
+
+daenerys targaryen : fieth her. noth wand to l*rdy lovel. lord stark : musher. rodrrand of the king is fait from never a lookll like it
+
+ned: i hear whe le’s to the king. the king is is che sues to his know he d
+------------------------temp 0.4
+took it from us. so tell me, sweet sisten. pan and the wall.
+
+ned: tere lanny to laryay mirling to go mack.
+
+catelyn: i hope she lannisters to kings the king is far we seent a leave from kings landing. now do hame i keal drogo watcke a raven a grick is the never for kint'r lonking to death you she lannes to have them he treen time for
+------------------------temp 0.6
+still growing?
+
+sansa: i think so, your revers the beghing is a stark. it’s the wall. i waited the lannesi to larry me in the kingsroad all gats to saw rithe queen. it
+
+robb (tars: what rike dragons as promesber benjen.
+
+jon stark : sansa spep!re. the beght mand he’s gracks ! that she leave me apwented the lannes all him. i wool dod
+------------------------temp 0.8
+ges have turned them to stone, but they cures to the kand to larny to lawuther oursed a lobering got. we lives jon are i’m hand. do he was the father fies for a k*nol some batcheply mud. we laven mang: we’re soy, thit'ling be goods.
+
+k i caret making it as the born’s tone and he’d don’t know the thite you? he thit con’m the lannes. i ho
+------------------------temp 1
+ure house.
+
+daenerys targaryen : nine your father.
+
+tyrion lannister : what you sansa i toule you i would be a groce. thatcems lew you know wore what i was the khole we’r beys hownd he was have been.
+
+jon saich one was arraven : the begh your surd a wontertall king rides. seemelf to have man a cattion the eyring. we wering gray.
+

@@ -1,0 +1,62 @@
+Instruction manual for text interpretation:
+
+1. Open up intents.json file
+The intents.json file shows all the tags, patterns, and responses the chatbot has.
+
+2. Run the chatBot.py
+- You may have to install the necessary libaries to run the project if you don't have them already.
+
+3. Let the chatBot load, it should tell you in the command-line when the bot is ready. This may take about 10-20 seconds.
+
+4. Type in any message to interact with the chatbot and the chatbot will give a response. You can try using messages from the intents or similar messages and hopefully it should try to respond with the corresponding response message.
+
+Instruction for text generation:
+
+1. Run the chatBot.py
+
+2. type /GeneratText
+
+3. Type Yes
+Typing no will asks you for the selection of characters choose from. So you can pick values that are within the range of the transcript if you choose to do this.
+
+4. Type a transcript of your choosing so type either:
+Simpson
+SpongeBob
+Shakespeare
+
+5. Let the text load.
+
+
+Instruction for generating custom text:
+
+For these sets of instructions, we will use the Game of Thrones transcript and neural network as an example. This should also be provided in the submission so you can use this file if you want. If you would like to, you can provide your own transcript. A transcript only needs to be a txt file with a lot of words. As a minimum try to provide at least 50k words, but the program should work best with the more words for training data.
+
+1. Run TrainingText.py
+
+2. Type the name of your text file eg:
+GameOfThronesS1.txt
+
+3. Type in the select of characters you would like to train the neural network on. Make sure that these are within the limits of the text file. So for instance, don't choose Left = 1000 characters and Right = 100,000 characters if the text file only has 50,000 characters.
+
+eg:
+Type 1,000 first, then when it asks for the right type 50,000 for the Game of Thrones.
+
+4. Name the model (Remember to name it something unique in the directory so that you don't overwrite any existing models)
+eg: textGenerator_GoTV1.model
+
+5. Wait for it to load.
+
+6. When it is done Loading, run chatBot.py
+
+7. Type /GenerateCustom
+
+8. Give the name of the transcript file eg:
+GameOfThronesS1.txt
+
+9. Type the name of the neural network model you just created in Step 4 eg: textGenerator_GoTV1.model
+
+10. Type the in the same selection of characters you did for Step 3.
+
+eg: first 1,000 and then type 50,000 for game of thrones.
+
+11. Let the text generate and you're done
